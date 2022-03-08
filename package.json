@@ -1,0 +1,25 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "websocket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon websocket.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Areebuddin6/Chat-App-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Areebuddin6/Chat-App-/issues"
+  },
+  "homepage": "https://github.com/Areebuddin6/Chat-App-#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
